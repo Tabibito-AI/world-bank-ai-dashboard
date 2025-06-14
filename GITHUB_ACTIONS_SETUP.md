@@ -32,6 +32,22 @@ Settings > Actions > General で以下を確認してください：
 - **選択**: Read and write permissions
 - **チェック**: Allow GitHub Actions to create and approve pull requests
 
+### Pages環境の設定
+Settings > Environments で以下を確認してください：
+- **github-pages**環境が作成されていることを確認
+- デプロイメント保護ルール（必要に応じて設定）
+
+## 3.1. 重要な設定確認項目
+
+### リポジトリの可視性
+- リポジトリが**Public**であることを確認
+- PrivateリポジトリでGitHub Pagesを使用する場合はGitHub Pro以上が必要
+
+### Actions権限
+Settings > Actions > General で以下も確認：
+- **Allow all actions and reusable workflows**が選択されていること
+- **Allow actions created by GitHub**が有効になっていること
+
 ## 4. 実行スケジュール
 
 ワークフローは以下のタイミングで実行されます：
