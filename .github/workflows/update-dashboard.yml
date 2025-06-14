@@ -1,0 +1,64 @@
+name: Update World Bank Dashboard
+
+on:
+  # 定期実行: 毎日午前9時（JST）= 午前0時（UTC）
+  schedule:
+    - cron: '0 0 * * *'
+  
+  # 手動実行を可能にする
+  workflow_dispatch:
+  
+  # src/ または .github/workflows/ の変更時に実行
+  push:
+    paths:
+      - 'src/**'
+      - '.github/workflows/**'
+
+jobs:
+  update-dashboard:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+    
+    - name: Install dependencies
+      run: npm ci
+    
+    - name: Set up environment variables
+      run: |
+        echo "GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}" >> $GITHUB_ENV
+    
+    - name: Collect World Bank data
+      run: npm run collect-data
+    
+    - name: Analyze data with Gemini AI
+      run: npm run analyze-data
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+    
+    - name: Generate dashboard
+      run: npm run generate-dashboard
+    
+    - name: Setup Pages
+      uses: actions/configure-pages@v4
+    
+    - name: Upload to GitHub Pages
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: ./public
+    
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
