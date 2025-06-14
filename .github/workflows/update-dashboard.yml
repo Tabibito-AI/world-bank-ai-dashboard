@@ -15,8 +15,17 @@ on:
       - '.github/workflows/**'
 
 jobs:
-  build-and-upload-artifact: # ジョブ名を変更
+  build-and-deploy:
     runs-on: ubuntu-latest
+    
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     
     steps:
     - name: Checkout repository
@@ -32,46 +41,18 @@ jobs:
       run: npm ci
     
     - name: Run all data processing and dashboard generation
-      run: npm start # src/index.js を実行
+      run: npm start
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
     
-    - name: Upload artifacts
-      uses: actions/upload-artifact@v4
+    - name: Setup Pages
+      uses: actions/configure-pages@v4
+    
+    - name: Upload to GitHub Pages
+      uses: actions/upload-pages-artifact@v3
       with:
-        name: dashboard-files
         path: ./public
-        retention-days: 1
-
-# deployジョブは deploy-dashboard.yml に移管するため削除
-# deploy:
-#   needs: build-and-upload-artifact # 依存ジョブ名を変更
-#   runs-on: ubuntu-latest
-#
-#   permissions:
-#     contents: read
-#     pages: write
-#     id-token: write
-#
-#   environment:
-#     name: github-pages
-#     url: ${{ steps.deployment.outputs.page_url }}
-#
-#   steps:
-#   - name: Download artifacts
-#     uses: actions/download-artifact@v4
-#     with:
-#       name: dashboard-files
-#       path: ./public
-#
-#   - name: Setup Pages
-#     uses: actions/configure-pages@v4
-#
-#   - name: Upload to GitHub Pages
-#     uses: actions/upload-pages-artifact@v3
-#     with:
-#       path: ./public
-#
-#   - name: Deploy to GitHub Pages
-#     id: deployment
-#     uses: actions/deploy-pages@v4
+    
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
