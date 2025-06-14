@@ -741,8 +741,9 @@ document.addEventListener('DOMContentLoaded', async function() {
 // データ読み込み
 async function loadData() {
     try {
-        // 経済データ（埋め        economicData = ${JSON.stringify(economicData, null, 2)};
-        analysis = ${JSON.stringify(analysis, null, 2)};     
+        // 経済データ（埋め込み）
+        economicData = ${JSON.stringify(economicData, null, 2)};
+        analysis = ${JSON.stringify(analysis, null, 2)};
         console.log('📊 データ読み込み完了');
     } catch (error) {
         console.error('❌ データ読み込みエラー:', error);
