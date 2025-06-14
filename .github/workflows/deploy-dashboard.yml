@@ -31,13 +31,13 @@ jobs:
     #   uses: actions/checkout@v4
       
     - name: Download artifact from build job
-      uses: actions/download-artifact@v4
+      uses: dawidd6/action-download-artifact@v3
       with:
-        name: dashboard-files # アップロードされたアーティファクト名
-        # workflow_runイベントからアーティファクトをダウンロードする場合、
-        # run-id を指定して、トリガーとなったワークフロー実行のアーティファクトを確実に取得する
-        run-id: ${{ github.event.workflow_run.id }}
-        path: ./public # ダウンロード先のパス
+        name: dashboard-files
+        workflow: "Update World Bank Dashboard"
+        if_no_artifact_found: fail
+        workflow_conclusion: success
+        path: ./public
 
     - name: Setup Pages
       uses: actions/configure-pages@v4
