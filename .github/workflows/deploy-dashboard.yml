@@ -2,7 +2,7 @@ name: Deploy Dashboard
 
 on:
   workflow_run:
-    workflows: ["Update World Bank Dashboard"]
+    workflows: ["Update World Bank Dashboard"] # トリガー元のワークフロー名を確認
     types:
       - completed
     branches: [main]
@@ -13,10 +13,11 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    # workflow_runイベントが成功した場合のみ実行
     if: ${{ github.event.workflow_run.conclusion == 'success' }}
     
     permissions:
-      contents: read
+      contents: read # アーティファクトのダウンロードに必要
       pages: write
       id-token: write
     
@@ -25,33 +26,19 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-    
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
+    # アーティファクトをダウンロードするためにリポジトリのチェックアウトは不要
+    # - name: Checkout repository
+    #   uses: actions/checkout@v4
+      
+    - name: Download artifact from build job
+      uses: actions/download-artifact@v4
       with:
-        node-version: '18'
-        cache: 'npm'
-    
-    - name: Install dependencies
-      run: npm ci
-    
-    - name: Set up environment variables
-      run: |
-        echo "GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}" >> $GITHUB_ENV
-    
-    - name: Collect World Bank data
-      run: npm run collect-data
-    
-    - name: Analyze data with Gemini AI
-      run: npm run analyze-data
-      env:
-        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-    
-    - name: Generate dashboard
-      run: npm run generate-dashboard
-    
+        name: dashboard-files # アップロードされたアーティファクト名
+        # workflow_runイベントからアーティファクトをダウンロードする場合、
+        # run-id を指定して、トリガーとなったワークフロー実行のアーティファクトを確実に取得する
+        run-id: ${{ github.event.workflow_run.id }}
+        path: ./public # ダウンロード先のパス
+
     - name: Setup Pages
       uses: actions/configure-pages@v4
     
