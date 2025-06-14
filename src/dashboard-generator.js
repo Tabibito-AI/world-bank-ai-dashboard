@@ -2,6 +2,7 @@
  * HTMLダッシュボードを生成するモジュール
  */
 
+require('dotenv').config();
 const fs = require('fs').promises;
 const path = require('path');
 

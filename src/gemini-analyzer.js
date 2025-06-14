@@ -2,6 +2,7 @@
  * Gemini AIを使用してデータを分析するモジュール
  */
 
+require('dotenv').config();
 const { GoogleGenerativeAI } = require('@google/generative-ai');
 const fs = require('fs').promises;
 const path = require('path');

@@ -3,6 +3,7 @@
  * 全体のワークフローを制御
  */
 
+require('dotenv').config();
 const dataCollector = require('./data-collector');
 const geminiAnalyzer = require('./gemini-analyzer');
 const dashboardGenerator = require('./dashboard-generator');

@@ -13198,6 +13198,2644 @@
           "unit": "米ドル"
         }
       ]
+    },
+    "IDN": {
+      "name": "インドネシア",
+      "data": [
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2006,
+          "value": 364570515618.358,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2007,
+          "value": 432216737774.861,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2008,
+          "value": 510228634992.255,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2009,
+          "value": 539580085612.401,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2010,
+          "value": 755094157594.524,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2011,
+          "value": 892969104529.572,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2012,
+          "value": 917869913364.917,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2013,
+          "value": 912524136718.018,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2014,
+          "value": 890814755511.014,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2015,
+          "value": 860854232717.718,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2016,
+          "value": 931877364034.196,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2017,
+          "value": 1015618744168.08,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2018,
+          "value": 1042271532953.49,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2019,
+          "value": 1119099871385.79,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2020,
+          "value": 1059054842711.55,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2021,
+          "value": 1186509691070.97,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2022,
+          "value": 1319076267291.51,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2023,
+          "value": 1371171152331.16,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2006,
+          "value": 5.50095178520348,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2007,
+          "value": 6.34502222667214,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2008,
+          "value": 6.01370360009123,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2009,
+          "value": 4.62887118256153,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2010,
+          "value": 6.22385418062366,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2011,
+          "value": 6.16978420771008,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2012,
+          "value": 6.03005065305615,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2013,
+          "value": 5.5572636889101,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2014,
+          "value": 5.006668425755,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2015,
+          "value": 4.87632230022123,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2016,
+          "value": 5.03306918280177,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2017,
+          "value": 5.06978590134916,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2018,
+          "value": 5.17429153955024,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2019,
+          "value": 5.01928768046282,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2020,
+          "value": -2.06551182934165,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2021,
+          "value": 3.70288562827751,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2022,
+          "value": 5.30741934775764,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2023,
+          "value": 5.04810577067288,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2006,
+          "value": 7.551,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2007,
+          "value": 8.06,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2008,
+          "value": 7.208,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2009,
+          "value": 6.106,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2010,
+          "value": 5.614,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2011,
+          "value": 5.153,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2012,
+          "value": 4.468,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2013,
+          "value": 4.336,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2014,
+          "value": 4.049,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2015,
+          "value": 4.514,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2016,
+          "value": 4.301,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2017,
+          "value": 3.783,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2018,
+          "value": 4.387,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2019,
+          "value": 3.59,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2020,
+          "value": 4.255,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2021,
+          "value": 3.827,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2022,
+          "value": 3.462,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2023,
+          "value": 3.308,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2024,
+          "value": 3.3,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2006,
+          "value": 13.1086720985296,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2007,
+          "value": 6.40656281325701,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2008,
+          "value": 10.2266645473148,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2009,
+          "value": 4.38641555014731,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2010,
+          "value": 5.13420400767928,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2011,
+          "value": 5.3560477898215,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2012,
+          "value": 4.27949999641975,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2013,
+          "value": 6.41251330156418,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2014,
+          "value": 6.39492540819922,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2015,
+          "value": 6.36312113115612,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2016,
+          "value": 3.5258051568793,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2017,
+          "value": 3.80879806953157,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2018,
+          "value": 3.1983464156241,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2019,
+          "value": 3.03058664969487,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2020,
+          "value": 1.9209680056685,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2021,
+          "value": 1.56012990525673,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2022,
+          "value": 4.20946383402165,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2023,
+          "value": 3.67013142377007,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2006,
+          "value": 1558.31562847164,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2007,
+          "value": 1823.21976255073,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2008,
+          "value": 2124.55483920617,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2009,
+          "value": 2218.48541852977,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2010,
+          "value": 3065.68348366636,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2011,
+          "value": 3579.46442452684,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2012,
+          "value": 3632.272540431,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2013,
+          "value": 3566.60284506078,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2014,
+          "value": 3441.06808455308,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2015,
+          "value": 3288.22269737572,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2016,
+          "value": 3521.46943456251,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2017,
+          "value": 3798.88326177649,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2018,
+          "value": 3860.95353077708,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2019,
+          "value": 4106.94856173421,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2020,
+          "value": 3853.70288778903,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2021,
+          "value": 4287.17313989405,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2022,
+          "value": 4730.74548910499,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2023,
+          "value": 4876.31432703188,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2006,
+          "value": 56.6571268148865,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2007,
+          "value": 54.8292499782075,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2008,
+          "value": 58.5613996312701,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2009,
+          "value": 45.5121213687054,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2010,
+          "value": 46.7012738758737,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2011,
+          "value": 50.1800131841104,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2012,
+          "value": 49.5828982992627,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2013,
+          "value": 48.6373726752893,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2014,
+          "value": 48.0801755855227,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2015,
+          "value": 41.9376402415294,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2016,
+          "value": 37.4213418023318,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2017,
+          "value": 39.3554970704606,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2018,
+          "value": 43.0743089552002,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2019,
+          "value": 37.6277775357108,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2020,
+          "value": 32.9721754002427,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2021,
+          "value": 40.2047582749671,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2022,
+          "value": 45.4658986816744,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2023,
+          "value": 41.3156667619874,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2006,
+          "value": 233951652,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2007,
+          "value": 237062337,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2008,
+          "value": 240157903,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2009,
+          "value": 243220028,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2010,
+          "value": 246305322,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2011,
+          "value": 249470032,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2012,
+          "value": 252698525,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2013,
+          "value": 255852467,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2014,
+          "value": 258877399,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2015,
+          "value": 261799249,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2016,
+          "value": 264627418,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2017,
+          "value": 267346658,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2018,
+          "value": 269951846,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2019,
+          "value": 272489381,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2020,
+          "value": 274814866,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2021,
+          "value": 276758053,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2022,
+          "value": 278830529,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2023,
+          "value": 281190067,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2006,
+          "value": 4914201435.40071,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2007,
+          "value": 6928480000,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2008,
+          "value": 9318453649.82664,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2009,
+          "value": 4877369178.43651,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2010,
+          "value": 15292009410.5099,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2011,
+          "value": 20564938226.7185,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2012,
+          "value": 21200778607.8727,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2013,
+          "value": 23281742361.5305,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2014,
+          "value": 25120732059.5134,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2015,
+          "value": 19779127976.9576,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2016,
+          "value": 4541713739.23769,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2017,
+          "value": 20510310832.4469,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2018,
+          "value": 18909826043.5105,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2019,
+          "value": 24993551748.0098,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2020,
+          "value": 19175077747.8077,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2021,
+          "value": 21213080329.8583,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2022,
+          "value": 24702029705.0926,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2023,
+          "value": 21543358781.3828,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2024,
+          "value": 23666770333.5481,
+          "unit": "米ドル"
+        }
+      ]
+    },
+    "PER": {
+      "name": "ペルー",
+      "data": [
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2006,
+          "value": 88643193061.748,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2007,
+          "value": 102170981144.136,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2008,
+          "value": 120550599815.441,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2009,
+          "value": 120822986521.479,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2010,
+          "value": 147527631520.729,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2011,
+          "value": 171761737046.585,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2012,
+          "value": 192650021648.583,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2013,
+          "value": 201175543571.392,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2014,
+          "value": 200786250582.943,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2015,
+          "value": 189802976285.619,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2016,
+          "value": 191898104390.379,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2017,
+          "value": 211007984080.911,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2018,
+          "value": 222597009739.235,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2019,
+          "value": 228346006003.648,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2020,
+          "value": 201409694755.934,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2021,
+          "value": 226354278280.885,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2022,
+          "value": 246488757636.211,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2023,
+          "value": 267603248655.253,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2006,
+          "value": 7.5288990440594,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2007,
+          "value": 8.5183877690955,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2008,
+          "value": 9.1265683014642,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2009,
+          "value": 1.0958236592427,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2010,
+          "value": 8.33245910749577,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2011,
+          "value": 6.32719240161117,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2012,
+          "value": 6.13972470560435,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2013,
+          "value": 5.85251821084928,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2014,
+          "value": 2.38215737180541,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2015,
+          "value": 3.25224477218451,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2016,
+          "value": 3.95331871520767,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2017,
+          "value": 2.51883544233135,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2018,
+          "value": 3.969351341365,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2019,
+          "value": 2.24063176875049,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2020,
+          "value": -10.9333065010382,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2021,
+          "value": 13.3552295093079,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2022,
+          "value": 2.72550021563363,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2023,
+          "value": -0.55018230632048,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2006,
+          "value": 4.17,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2007,
+          "value": 4.08,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2008,
+          "value": 4.03,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2009,
+          "value": 3.96,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2010,
+          "value": 3.6,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2011,
+          "value": 3.477,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2012,
+          "value": 3.238,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2013,
+          "value": 3.575,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2014,
+          "value": 3.208,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2015,
+          "value": 3.272,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2016,
+          "value": 3.741,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2017,
+          "value": 3.691,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2018,
+          "value": 3.492,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2019,
+          "value": 3.379,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2020,
+          "value": 7.179,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2021,
+          "value": 5.097,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2022,
+          "value": 3.85,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2023,
+          "value": 4.899,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2024,
+          "value": 4.828,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2006,
+          "value": 2.00225801248819,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2007,
+          "value": 1.77998644680372,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2008,
+          "value": 5.78587598206755,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2009,
+          "value": 2.936231535967,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2010,
+          "value": 1.52832059732901,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2011,
+          "value": 3.36931095333853,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2012,
+          "value": 3.61121294940163,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2013,
+          "value": 2.76789666082002,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2014,
+          "value": 3.41194579807465,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2015,
+          "value": 3.39809194746308,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2016,
+          "value": 3.55717663556279,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2017,
+          "value": 2.99490045809443,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2018,
+          "value": 1.50915423024742,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2019,
+          "value": 2.25212191358027,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2020,
+          "value": 2.00241205759292,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2021,
+          "value": 4.27166381536798,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2022,
+          "value": 8.33370630096231,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2023,
+          "value": 6.45561348369586,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2024,
+          "value": 2.00770739412712,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2006,
+          "value": 3129.55996496982,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2007,
+          "value": 3581.0893081917,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2008,
+          "value": 4197.58444634142,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2009,
+          "value": 4181.18755462253,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2010,
+          "value": 5072.11494019615,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2011,
+          "value": 5861.35793645245,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2012,
+          "value": 6519.37852981527,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2013,
+          "value": 6746.80025696601,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2014,
+          "value": 6667.13410360861,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2015,
+          "value": 6231.71150338894,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2016,
+          "value": 6217.03599995447,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2017,
+          "value": 6736.16693725487,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2018,
+          "value": 6978.49121548627,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2019,
+          "value": 7037.00803692604,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2020,
+          "value": 6133.32552410183,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2021,
+          "value": 6826.9720069846,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2022,
+          "value": 7363.27206939639,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2023,
+          "value": 7906.58502858,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2006,
+          "value": 51.7850560338442,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2007,
+          "value": 55.6881132836815,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2008,
+          "value": 58.4337673899053,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2009,
+          "value": 48.1119296153519,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2010,
+          "value": 51.6728089370033,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2011,
+          "value": 55.9882802838607,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2012,
+          "value": 52.6198952632294,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2013,
+          "value": 49.7871424471444,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2014,
+          "value": 46.8531210912899,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2015,
+          "value": 45.1627686891148,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2016,
+          "value": 45.3888411964154,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2017,
+          "value": 47.5135503619971,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2018,
+          "value": 48.631470171736,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2019,
+          "value": 46.9435053754409,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2020,
+          "value": 44.245967197744,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2021,
+          "value": 55.2742548782987,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2022,
+          "value": 57.2510734358091,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2023,
+          "value": 50.909508314535,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2006,
+          "value": 28324491,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2007,
+          "value": 28530699,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2008,
+          "value": 28719041,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2009,
+          "value": 28896811,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2010,
+          "value": 29086019,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2011,
+          "value": 29304086,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2012,
+          "value": 29550366,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2013,
+          "value": 29817919,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2014,
+          "value": 30115826,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2015,
+          "value": 30457600,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2016,
+          "value": 30866494,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2017,
+          "value": 31324637,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2018,
+          "value": 31897584,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2019,
+          "value": 32449303,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2020,
+          "value": 32838579,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2021,
+          "value": 33155882,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2022,
+          "value": 33475438,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2023,
+          "value": 33845617,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2006,
+          "value": 3466531061.27322,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2007,
+          "value": 5490961307.08952,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2008,
+          "value": 6923651284.62579,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2009,
+          "value": 6430652960.91184,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2010,
+          "value": 8454627587.91059,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2011,
+          "value": 7682261108.57854,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2012,
+          "value": 14182387604.3103,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2013,
+          "value": 9570622714.00791,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2014,
+          "value": 4262751633.55747,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2015,
+          "value": 7336859044.51778,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2016,
+          "value": 6805247718.18016,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2017,
+          "value": 7413409959.49823,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2018,
+          "value": 5872657139.17008,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2019,
+          "value": 4775376809.84597,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2020,
+          "value": 663417504.946494,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2021,
+          "value": 7142277305.62547,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2022,
+          "value": 11201435821.3347,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2023,
+          "value": 3918253336.82371,
+          "unit": "米ドル"
+        }
+      ]
     }
   },
   "byIndicator": {
@@ -14823,6 +17461,330 @@
           "year": 2023,
           "value": 1728057316695.61,
           "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2006,
+          "value": 364570515618.358,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2007,
+          "value": 432216737774.861,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2008,
+          "value": 510228634992.255,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2009,
+          "value": 539580085612.401,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2010,
+          "value": 755094157594.524,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2011,
+          "value": 892969104529.572,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2012,
+          "value": 917869913364.917,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2013,
+          "value": 912524136718.018,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2014,
+          "value": 890814755511.014,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2015,
+          "value": 860854232717.718,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2016,
+          "value": 931877364034.196,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2017,
+          "value": 1015618744168.08,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2018,
+          "value": 1042271532953.49,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2019,
+          "value": 1119099871385.79,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2020,
+          "value": 1059054842711.55,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2021,
+          "value": 1186509691070.97,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2022,
+          "value": 1319076267291.51,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2023,
+          "value": 1371171152331.16,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2006,
+          "value": 88643193061.748,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2007,
+          "value": 102170981144.136,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2008,
+          "value": 120550599815.441,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2009,
+          "value": 120822986521.479,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2010,
+          "value": 147527631520.729,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2011,
+          "value": 171761737046.585,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2012,
+          "value": 192650021648.583,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2013,
+          "value": 201175543571.392,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2014,
+          "value": 200786250582.943,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2015,
+          "value": 189802976285.619,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2016,
+          "value": 191898104390.379,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2017,
+          "value": 211007984080.911,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2018,
+          "value": 222597009739.235,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2019,
+          "value": 228346006003.648,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2020,
+          "value": 201409694755.934,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2021,
+          "value": 226354278280.885,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2022,
+          "value": 246488757636.211,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP（現在価格、米ドル）",
+          "indicatorCode": "NY.GDP.MKTP.CD",
+          "year": 2023,
+          "value": 267603248655.253,
+          "unit": "米ドル"
         }
       ]
     },
@@ -16447,6 +19409,330 @@
           "indicatorCode": "NY.GDP.MKTP.KD.ZG",
           "year": 2023,
           "value": 3.44199220009025,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2006,
+          "value": 5.50095178520348,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2007,
+          "value": 6.34502222667214,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2008,
+          "value": 6.01370360009123,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2009,
+          "value": 4.62887118256153,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2010,
+          "value": 6.22385418062366,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2011,
+          "value": 6.16978420771008,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2012,
+          "value": 6.03005065305615,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2013,
+          "value": 5.5572636889101,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2014,
+          "value": 5.006668425755,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2015,
+          "value": 4.87632230022123,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2016,
+          "value": 5.03306918280177,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2017,
+          "value": 5.06978590134916,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2018,
+          "value": 5.17429153955024,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2019,
+          "value": 5.01928768046282,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2020,
+          "value": -2.06551182934165,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2021,
+          "value": 3.70288562827751,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2022,
+          "value": 5.30741934775764,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2023,
+          "value": 5.04810577067288,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2006,
+          "value": 7.5288990440594,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2007,
+          "value": 8.5183877690955,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2008,
+          "value": 9.1265683014642,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2009,
+          "value": 1.0958236592427,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2010,
+          "value": 8.33245910749577,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2011,
+          "value": 6.32719240161117,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2012,
+          "value": 6.13972470560435,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2013,
+          "value": 5.85251821084928,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2014,
+          "value": 2.38215737180541,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2015,
+          "value": 3.25224477218451,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2016,
+          "value": 3.95331871520767,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2017,
+          "value": 2.51883544233135,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2018,
+          "value": 3.969351341365,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2019,
+          "value": 2.24063176875049,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2020,
+          "value": -10.9333065010382,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2021,
+          "value": 13.3552295093079,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2022,
+          "value": 2.72550021563363,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "GDP成長率（年率）",
+          "indicatorCode": "NY.GDP.MKTP.KD.ZG",
+          "year": 2023,
+          "value": -0.55018230632048,
           "unit": "%"
         }
       ]
@@ -18163,6 +21449,348 @@
           "year": 2024,
           "value": 4.072,
           "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2006,
+          "value": 7.551,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2007,
+          "value": 8.06,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2008,
+          "value": 7.208,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2009,
+          "value": 6.106,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2010,
+          "value": 5.614,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2011,
+          "value": 5.153,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2012,
+          "value": 4.468,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2013,
+          "value": 4.336,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2014,
+          "value": 4.049,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2015,
+          "value": 4.514,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2016,
+          "value": 4.301,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2017,
+          "value": 3.783,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2018,
+          "value": 4.387,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2019,
+          "value": 3.59,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2020,
+          "value": 4.255,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2021,
+          "value": 3.827,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2022,
+          "value": 3.462,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2023,
+          "value": 3.308,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2024,
+          "value": 3.3,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2006,
+          "value": 4.17,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2007,
+          "value": 4.08,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2008,
+          "value": 4.03,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2009,
+          "value": 3.96,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2010,
+          "value": 3.6,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2011,
+          "value": 3.477,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2012,
+          "value": 3.238,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2013,
+          "value": 3.575,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2014,
+          "value": 3.208,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2015,
+          "value": 3.272,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2016,
+          "value": 3.741,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2017,
+          "value": 3.691,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2018,
+          "value": 3.492,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2019,
+          "value": 3.379,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2020,
+          "value": 7.179,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2021,
+          "value": 5.097,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2022,
+          "value": 3.85,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2023,
+          "value": 4.899,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "失業率（%）",
+          "indicatorCode": "SL.UEM.TOTL.ZS",
+          "year": 2024,
+          "value": 4.828,
+          "unit": "%"
         }
       ]
     },
@@ -19878,6 +23506,339 @@
           "year": 2024,
           "value": 3.1616142830575,
           "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2006,
+          "value": 13.1086720985296,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2007,
+          "value": 6.40656281325701,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2008,
+          "value": 10.2266645473148,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2009,
+          "value": 4.38641555014731,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2010,
+          "value": 5.13420400767928,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2011,
+          "value": 5.3560477898215,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2012,
+          "value": 4.27949999641975,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2013,
+          "value": 6.41251330156418,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2014,
+          "value": 6.39492540819922,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2015,
+          "value": 6.36312113115612,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2016,
+          "value": 3.5258051568793,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2017,
+          "value": 3.80879806953157,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2018,
+          "value": 3.1983464156241,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2019,
+          "value": 3.03058664969487,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2020,
+          "value": 1.9209680056685,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2021,
+          "value": 1.56012990525673,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2022,
+          "value": 4.20946383402165,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2023,
+          "value": 3.67013142377007,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2006,
+          "value": 2.00225801248819,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2007,
+          "value": 1.77998644680372,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2008,
+          "value": 5.78587598206755,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2009,
+          "value": 2.936231535967,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2010,
+          "value": 1.52832059732901,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2011,
+          "value": 3.36931095333853,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2012,
+          "value": 3.61121294940163,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2013,
+          "value": 2.76789666082002,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2014,
+          "value": 3.41194579807465,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2015,
+          "value": 3.39809194746308,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2016,
+          "value": 3.55717663556279,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2017,
+          "value": 2.99490045809443,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2018,
+          "value": 1.50915423024742,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2019,
+          "value": 2.25212191358027,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2020,
+          "value": 2.00241205759292,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2021,
+          "value": 4.27166381536798,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2022,
+          "value": 8.33370630096231,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2023,
+          "value": 6.45561348369586,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "インフレ率（%）",
+          "indicatorCode": "FP.CPI.TOTL.ZG",
+          "year": 2024,
+          "value": 2.00770739412712,
+          "unit": "%"
         }
       ]
     },
@@ -21503,6 +25464,330 @@
           "year": 2023,
           "value": 64820.9117890026,
           "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2006,
+          "value": 1558.31562847164,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2007,
+          "value": 1823.21976255073,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2008,
+          "value": 2124.55483920617,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2009,
+          "value": 2218.48541852977,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2010,
+          "value": 3065.68348366636,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2011,
+          "value": 3579.46442452684,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2012,
+          "value": 3632.272540431,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2013,
+          "value": 3566.60284506078,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2014,
+          "value": 3441.06808455308,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2015,
+          "value": 3288.22269737572,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2016,
+          "value": 3521.46943456251,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2017,
+          "value": 3798.88326177649,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2018,
+          "value": 3860.95353077708,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2019,
+          "value": 4106.94856173421,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2020,
+          "value": 3853.70288778903,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2021,
+          "value": 4287.17313989405,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2022,
+          "value": 4730.74548910499,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2023,
+          "value": 4876.31432703188,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2006,
+          "value": 3129.55996496982,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2007,
+          "value": 3581.0893081917,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2008,
+          "value": 4197.58444634142,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2009,
+          "value": 4181.18755462253,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2010,
+          "value": 5072.11494019615,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2011,
+          "value": 5861.35793645245,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2012,
+          "value": 6519.37852981527,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2013,
+          "value": 6746.80025696601,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2014,
+          "value": 6667.13410360861,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2015,
+          "value": 6231.71150338894,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2016,
+          "value": 6217.03599995447,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2017,
+          "value": 6736.16693725487,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2018,
+          "value": 6978.49121548627,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2019,
+          "value": 7037.00803692604,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2020,
+          "value": 6133.32552410183,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2021,
+          "value": 6826.9720069846,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2022,
+          "value": 7363.27206939639,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "一人当たりGDP（米ドル）",
+          "indicatorCode": "NY.GDP.PCAP.CD",
+          "year": 2023,
+          "value": 7906.58502858,
+          "unit": "米ドル"
         }
       ]
     },
@@ -23127,6 +27412,330 @@
           "indicatorCode": "NE.TRD.GNFS.ZS",
           "year": 2023,
           "value": 49.2251840594381,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2006,
+          "value": 56.6571268148865,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2007,
+          "value": 54.8292499782075,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2008,
+          "value": 58.5613996312701,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2009,
+          "value": 45.5121213687054,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2010,
+          "value": 46.7012738758737,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2011,
+          "value": 50.1800131841104,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2012,
+          "value": 49.5828982992627,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2013,
+          "value": 48.6373726752893,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2014,
+          "value": 48.0801755855227,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2015,
+          "value": 41.9376402415294,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2016,
+          "value": 37.4213418023318,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2017,
+          "value": 39.3554970704606,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2018,
+          "value": 43.0743089552002,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2019,
+          "value": 37.6277775357108,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2020,
+          "value": 32.9721754002427,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2021,
+          "value": 40.2047582749671,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2022,
+          "value": 45.4658986816744,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2023,
+          "value": 41.3156667619874,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2006,
+          "value": 51.7850560338442,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2007,
+          "value": 55.6881132836815,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2008,
+          "value": 58.4337673899053,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2009,
+          "value": 48.1119296153519,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2010,
+          "value": 51.6728089370033,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2011,
+          "value": 55.9882802838607,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2012,
+          "value": 52.6198952632294,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2013,
+          "value": 49.7871424471444,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2014,
+          "value": 46.8531210912899,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2015,
+          "value": 45.1627686891148,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2016,
+          "value": 45.3888411964154,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2017,
+          "value": 47.5135503619971,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2018,
+          "value": 48.631470171736,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2019,
+          "value": 46.9435053754409,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2020,
+          "value": 44.245967197744,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2021,
+          "value": 55.2742548782987,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2022,
+          "value": 57.2510734358091,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "貿易（GDP比%）",
+          "indicatorCode": "NE.TRD.GNFS.ZS",
+          "year": 2023,
+          "value": 50.909508314535,
           "unit": "%"
         }
       ]
@@ -24756,6 +29365,330 @@
           "indicatorCode": "SP.POP.TOTL",
           "year": 2023,
           "value": 26658948,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2006,
+          "value": 233951652,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2007,
+          "value": 237062337,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2008,
+          "value": 240157903,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2009,
+          "value": 243220028,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2010,
+          "value": 246305322,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2011,
+          "value": 249470032,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2012,
+          "value": 252698525,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2013,
+          "value": 255852467,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2014,
+          "value": 258877399,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2015,
+          "value": 261799249,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2016,
+          "value": 264627418,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2017,
+          "value": 267346658,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2018,
+          "value": 269951846,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2019,
+          "value": 272489381,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2020,
+          "value": 274814866,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2021,
+          "value": 276758053,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2022,
+          "value": 278830529,
+          "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2023,
+          "value": 281190067,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2006,
+          "value": 28324491,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2007,
+          "value": 28530699,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2008,
+          "value": 28719041,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2009,
+          "value": 28896811,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2010,
+          "value": 29086019,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2011,
+          "value": 29304086,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2012,
+          "value": 29550366,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2013,
+          "value": 29817919,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2014,
+          "value": 30115826,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2015,
+          "value": 30457600,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2016,
+          "value": 30866494,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2017,
+          "value": 31324637,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2018,
+          "value": 31897584,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2019,
+          "value": 32449303,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2020,
+          "value": 32838579,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2021,
+          "value": 33155882,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2022,
+          "value": 33475438,
+          "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "総人口",
+          "indicatorCode": "SP.POP.TOTL",
+          "year": 2023,
+          "value": 33845617,
           "unit": "人"
         }
       ]
@@ -26391,12 +31324,345 @@
           "year": 2023,
           "value": 32619020577.2036,
           "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2006,
+          "value": 4914201435.40071,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2007,
+          "value": 6928480000,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2008,
+          "value": 9318453649.82664,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2009,
+          "value": 4877369178.43651,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2010,
+          "value": 15292009410.5099,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2011,
+          "value": 20564938226.7185,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2012,
+          "value": 21200778607.8727,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2013,
+          "value": 23281742361.5305,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2014,
+          "value": 25120732059.5134,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2015,
+          "value": 19779127976.9576,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2016,
+          "value": 4541713739.23769,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2017,
+          "value": 20510310832.4469,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2018,
+          "value": 18909826043.5105,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2019,
+          "value": 24993551748.0098,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2020,
+          "value": 19175077747.8077,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2021,
+          "value": 21213080329.8583,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2022,
+          "value": 24702029705.0926,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2023,
+          "value": 21543358781.3828,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2024,
+          "value": 23666770333.5481,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2006,
+          "value": 3466531061.27322,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2007,
+          "value": 5490961307.08952,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2008,
+          "value": 6923651284.62579,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2009,
+          "value": 6430652960.91184,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2010,
+          "value": 8454627587.91059,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2011,
+          "value": 7682261108.57854,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2012,
+          "value": 14182387604.3103,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2013,
+          "value": 9570622714.00791,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2014,
+          "value": 4262751633.55747,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2015,
+          "value": 7336859044.51778,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2016,
+          "value": 6805247718.18016,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2017,
+          "value": 7413409959.49823,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2018,
+          "value": 5872657139.17008,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2019,
+          "value": 4775376809.84597,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2020,
+          "value": 663417504.946494,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2021,
+          "value": 7142277305.62547,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2022,
+          "value": 11201435821.3347,
+          "unit": "米ドル"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "外国直接投資（米ドル）",
+          "indicatorCode": "BX.KLT.DINV.CD.WD",
+          "year": 2023,
+          "value": 3918253336.82371,
+          "unit": "米ドル"
         }
       ]
     }
   },
   "summary": {
-    "totalRecords": 1461,
+    "totalRecords": 1753,
     "countries": [
       "JPN",
       "USA",
@@ -26407,7 +31673,9 @@
       "IND",
       "BRA",
       "CAN",
-      "AUS"
+      "AUS",
+      "IDN",
+      "PER"
     ],
     "indicators": [
       "NY.GDP.MKTP.CD",
@@ -26424,6 +31692,6 @@
       "min": 2006,
       "max": 2024
     },
-    "lastUpdated": "2025-06-10T02:43:20.314Z"
+    "lastUpdated": "2025-06-14T09:25:51.461Z"
   }
 }
