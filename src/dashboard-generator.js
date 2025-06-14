@@ -1413,6 +1413,33 @@ window.updateDataTable = updateDataTable;`;
 
 
 /**
+ * データファイルをpublicディレクトリにコピー
+ */
+async function copyDataFiles() {
+    try {
+        const dataDir = path.join(__dirname, '..', 'data');
+        const publicDir = path.join(__dirname, '..', 'public');
+        
+        // organized-data.jsonをコピー
+        const sourceFile = path.join(dataDir, 'organized-data.json');
+        const targetFile = path.join(publicDir, 'organized-data.json');
+        
+        try {
+            await fs.access(sourceFile);
+            const data = await fs.readFile(sourceFile, 'utf8');
+            await fs.writeFile(targetFile, data, 'utf8');
+            console.log('💾 organized-data.jsonをpublicディレクトリにコピーしました');
+        } catch (error) {
+            console.warn('⚠️ organized-data.jsonが見つかりません:', error.message);
+        }
+        
+    } catch (error) {
+        console.error('❌ データファイルのコピーに失敗:', error);
+        throw error;
+    }
+}
+
+/**
  * メイン関数：ダッシュボード生成の実行
  */
 async function generateDashboard(economicData, analysis) {
@@ -1427,6 +1454,9 @@ async function generateDashboard(economicData, analysis) {
         
         // JavaScriptファイルを生成
         await generateJS(economicData, analysis);
+        
+        // データファイルをpublicディレクトリにコピー
+        await copyDataFiles();
         
         console.log('✅ ダッシュボード生成完了');
         
