@@ -72,7 +72,26 @@ npm install
 GEMINI_API_KEY=your_gemini_api_key_here
 ```
 
-### 3. ローカル実行
+クローンしたGitHubレポジトリで、'Setting' → 'Secrets and variables' → 'Actions' の順にクリックし、
+'Secrets'のタブの'Repository secrets'でGemini API Keyを設定してください。
+
+[Name *]
+```
+GEMINI_API_KEY
+```
+
+[Secret *]
+```
+your_gemini_api_key
+```
+
+### 3. GitHub Actionsの設定
+
+クローンしたGitHubレポジトリで、'Setting' → 'Pages' → 'Build and deployment' の順にクリックし、
+Build and deploymentセクションで、'Source'を'GitHub Actions'に変更して下さい。
+
+
+### 4. ローカル実行
 
 ```bash
 # 全体のビルド実行
@@ -83,14 +102,6 @@ npm run collect-data      # データ取得
 npm run analyze-data      # AI分析
 npm run generate-dashboard # ダッシュボード生成
 ```
-
-## GitHub Actionsの設定
-
-### 必要なシークレット
-
-GitHubリポジトリの Settings > Secrets and variables > Actions で以下を設定：
-
-- `GEMINI_API_KEY`: Gemini APIキー
 
 ### 自動実行スケジュール
 
