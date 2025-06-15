@@ -991,11 +991,17 @@ function initializeUnemploymentChart() {
     if (!ctx || !economicData) return;
     
     const countries = Object.keys(economicData.byCountry);
-    const latestYear = new Date().getFullYear();
+    
+    // 利用可能な最新年を動的に見つける
+    const availableYears = Object.values(economicData.byCountry)
+        .flatMap(country => country.data)
+        .filter(d => d.indicatorCode === 'SL.UEM.TOTL.ZS' && d.value !== null)
+        .map(d => d.year);
+    const latestYear = Math.max(...availableYears);
     
     const unemploymentData = countries.map(code => {
         const countryData = economicData.byCountry[code];
-        const record = countryData.data.find(d => 
+        const record = countryData.data.find(d =>
             d.indicatorCode === 'SL.UEM.TOTL.ZS' && d.year === latestYear
         );
         return {
@@ -1036,11 +1042,17 @@ function initializeGDPPerCapitaChart() {
     if (!ctx || !economicData) return;
     
     const countries = Object.keys(economicData.byCountry);
-    const latestYear = new Date().getFullYear();
+    
+    // 利用可能な最新年を動的に見つける
+    const availableYears = Object.values(economicData.byCountry)
+        .flatMap(country => country.data)
+        .filter(d => d.indicatorCode === 'NY.GDP.PCAP.CD' && d.value !== null)
+        .map(d => d.year);
+    const latestYear = Math.max(...availableYears);
     
     const gdpPerCapitaData = countries.map(code => {
         const countryData = economicData.byCountry[code];
-        const record = countryData.data.find(d => 
+        const record = countryData.data.find(d =>
             d.indicatorCode === 'NY.GDP.PCAP.CD' && d.year === latestYear
         );
         return {
@@ -1339,9 +1351,17 @@ function updateDataTable() {
         }
     } else {
         // すべてのデータ（最新年のみ）
-        data = Object.values(economicData.byCountry)
-            .flatMap(country => country.data)
-            .filter(d => d.year === new Date().getFullYear())
+        const allData = Object.values(economicData.byCountry)
+            .flatMap(country => country.data);
+        
+        // 利用可能な最新年を動的に見つける
+        const availableYears = allData
+            .filter(d => d.value !== null)
+            .map(d => d.year);
+        const latestYear = Math.max(...availableYears);
+        
+        data = allData
+            .filter(d => d.year === latestYear)
             .slice(0, 50); // 表示制限
     }
     
