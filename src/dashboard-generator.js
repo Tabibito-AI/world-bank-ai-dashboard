@@ -940,14 +940,16 @@ function initializeGDPGrowthChart() {
     if (!ctx || !economicData) return;
     
     const countries = ['JPN', 'USA', 'CHN', 'DEU', 'GBR'];
-    const years = [2019, 2020, 2021, 2022, 2023];
+    // 実行時から直近20年間
+    const currentYear = new Date().getFullYear();
+    const years = Array.from({length: 20}, (_, i) => currentYear - 19 + i);
     
     const datasets = countries.map((code, index) => {
         const countryData = economicData.byCountry[code];
         if (!countryData) return null;
         
         const data = years.map(year => {
-            const record = countryData.data.find(d => 
+            const record = countryData.data.find(d =>
                 d.indicatorCode === 'NY.GDP.MKTP.KD.ZG' && d.year === year
             );
             return record ? record.value : null;
@@ -989,7 +991,7 @@ function initializeUnemploymentChart() {
     if (!ctx || !economicData) return;
     
     const countries = Object.keys(economicData.byCountry);
-    const latestYear = 2023;
+    const latestYear = new Date().getFullYear();
     
     const unemploymentData = countries.map(code => {
         const countryData = economicData.byCountry[code];
@@ -1034,7 +1036,7 @@ function initializeGDPPerCapitaChart() {
     if (!ctx || !economicData) return;
     
     const countries = Object.keys(economicData.byCountry);
-    const latestYear = 2023;
+    const latestYear = new Date().getFullYear();
     
     const gdpPerCapitaData = countries.map(code => {
         const countryData = economicData.byCountry[code];
@@ -1079,14 +1081,16 @@ function initializeInflationChart() {
     if (!ctx || !economicData) return;
     
     const countries = ['JPN', 'USA', 'CHN', 'DEU', 'GBR'];
-    const years = [2019, 2020, 2021, 2022, 2023];
+    // 実行時から直近20年間
+    const currentYear = new Date().getFullYear();
+    const years = Array.from({length: 20}, (_, i) => currentYear - 19 + i);
     
     const datasets = countries.map((code, index) => {
         const countryData = economicData.byCountry[code];
         if (!countryData) return null;
         
         const data = years.map(year => {
-            const record = countryData.data.find(d => 
+            const record = countryData.data.find(d =>
                 d.indicatorCode === 'FP.CPI.TOTL.ZG' && d.year === year
             );
             return record ? record.value : null;
@@ -1128,14 +1132,16 @@ function initializeTradeChart() {
     if (!ctx || !economicData) return;
     
     const countries = ['JPN', 'USA', 'CHN', 'DEU', 'GBR'];
-    const years = [2019, 2020, 2021, 2022, 2023];
+    // 実行時から直近20年間
+    const currentYear = new Date().getFullYear();
+    const years = Array.from({length: 20}, (_, i) => currentYear - 19 + i);
     
     const datasets = countries.map((code, index) => {
         const countryData = economicData.byCountry[code];
         if (!countryData) return null;
         
         const data = years.map(year => {
-            const record = countryData.data.find(d => 
+            const record = countryData.data.find(d =>
                 d.indicatorCode === 'NE.TRD.GNFS.ZS' && d.year === year
             );
             return record ? record.value : null;
@@ -1177,14 +1183,16 @@ function initializePopulationChart() {
     if (!ctx || !economicData) return;
     
     const countries = ['JPN', 'USA', 'CHN', 'DEU', 'GBR'];
-    const years = [2019, 2020, 2021, 2022, 2023];
+    // 実行時から直近20年間
+    const currentYear = new Date().getFullYear();
+    const years = Array.from({length: 20}, (_, i) => currentYear - 19 + i);
     
     const datasets = countries.map((code, index) => {
         const countryData = economicData.byCountry[code];
         if (!countryData) return null;
         
         const data = years.map(year => {
-            const record = countryData.data.find(d => 
+            const record = countryData.data.find(d =>
                 d.indicatorCode === 'SP.POP.TOTL' && d.year === year
             );
             return record ? record.value / 1e6 : null; // 百万人単位
@@ -1226,17 +1234,20 @@ function initializeFDIChart() {
     if (!ctx || !economicData) return;
     
     const countries = ['JPN', 'USA', 'CHN', 'DEU', 'GBR'];
-    const years = [2019, 2020, 2021, 2022, 2023];
+    // 実行時から直近20年間
+    const currentYear = new Date().getFullYear();
+    const years = Array.from({length: 20}, (_, i) => currentYear - 19 + i);
     
     const datasets = countries.map((code, index) => {
         const countryData = economicData.byCountry[code];
         if (!countryData) return null;
         
         const data = years.map(year => {
-            const record = countryData.data.find(d => 
+            const record = countryData.data.find(d =>
                 d.indicatorCode === 'BX.KLT.DINV.CD.WD' && d.year === year
             );
-            return record ? record.value : null;
+            // 10億ドル単位に変換
+            return record ? record.value / 1e9 : null;
         });
         
         const colors = ['#3498db', '#e74c3c', '#f39c12', '#9b59b6', '#1abc9c'];
@@ -1262,7 +1273,7 @@ function initializeFDIChart() {
             maintainAspectRatio: false,
             scales: {
                 y: {
-                    title: { display: true, text: '外国直接投資（GDP比%）' }
+                    title: { display: true, text: '外国直接投資（10億ドル）' }
                 }
             }
         }
@@ -1330,7 +1341,7 @@ function updateDataTable() {
         // すべてのデータ（最新年のみ）
         data = Object.values(economicData.byCountry)
             .flatMap(country => country.data)
-            .filter(d => d.year === 2023)
+            .filter(d => d.year === new Date().getFullYear())
             .slice(0, 50); // 表示制限
     }
     
