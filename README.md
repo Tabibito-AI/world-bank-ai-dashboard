@@ -2,6 +2,8 @@
 
 GitHub Actionsを活用したWorld Bank経済指標ダッシュボード。Gemini AIによる分析機能付き。
 
+![ダッシュボードイメージ](image.jpeg)
+
 ## 概要
 
 このプロジェクトは、World Bank APIから主要各国の経済指標データを自動取得し、Gemini AIで分析した結果をインタラクティブなダッシュボードとしてGitHub Pagesに自動デプロイします。
