@@ -894,9 +894,15 @@ function initializeGDPChart() {
         )
     );
     
+    // チャートタイトルを動的に更新
+    const titleElement = ctx.closest('.chart-card').querySelector('h3');
+    if (titleElement) {
+        titleElement.textContent = \`GDP比較（\${latestYear}年）\`;
+    }
+    
     const gdpData = countries.map(code => {
         const countryData = economicData.byCountry[code];
-        const gdpRecord = countryData.data.find(d => 
+        const gdpRecord = countryData.data.find(d =>
             d.indicatorCode === 'NY.GDP.MKTP.CD' && d.year === latestYear
         );
         return {
@@ -999,6 +1005,12 @@ function initializeUnemploymentChart() {
         .map(d => d.year);
     const latestYear = Math.max(...availableYears);
     
+    // チャートタイトルを動的に更新
+    const titleElement = ctx.closest('.chart-card').querySelector('h3');
+    if (titleElement) {
+        titleElement.textContent = \`失業率比較（\${latestYear}年）\`;
+    }
+    
     const unemploymentData = countries.map(code => {
         const countryData = economicData.byCountry[code];
         const record = countryData.data.find(d =>
@@ -1049,6 +1061,12 @@ function initializeGDPPerCapitaChart() {
         .filter(d => d.indicatorCode === 'NY.GDP.PCAP.CD' && d.value !== null)
         .map(d => d.year);
     const latestYear = Math.max(...availableYears);
+    
+    // チャートタイトルを動的に更新
+    const titleElement = ctx.closest('.chart-card').querySelector('h3');
+    if (titleElement) {
+        titleElement.textContent = \`一人当たりGDP比較（\${latestYear}年）\`;
+    }
     
     const gdpPerCapitaData = countries.map(code => {
         const countryData = economicData.byCountry[code];
