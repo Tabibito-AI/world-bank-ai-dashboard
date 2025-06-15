@@ -379,6 +379,11 @@ async function analyzeData(economicData) {
             await new Promise(resolve => setTimeout(resolve, 1000));
         }
         
+        // 世界経済総括分析をanalysisオブジェクトに追加
+        analysis.globalEconomicSummary = await generateGlobalEconomicSummary(analysis.indicators, Math.max(...Object.values(economicData.byCountry)
+            .flatMap(country => country.data)
+            .map(d => d.year)));
+        
         // 分析結果を保存
         await saveAnalysis(analysis, 'ai-analysis.json');
         
@@ -467,13 +472,21 @@ async function generateGlobalEconomicSummary(indicatorAnalysis, latestYear) {
         try {
             const model = genAI.getGenerativeModel({ model: 'gemini-2.0-flash' });
             
+            // 指標分析結果から有効なデータを抽出
+            const validAnalyses = Object.entries(indicatorAnalysis)
+                .filter(([code, analysis]) => analysis && analysis.analysis)
+                .map(([code, analysis]) => `${analysis.indicator}: ${analysis.analysis}`)
+                .join('\n\n');
+            
+            if (!validAnalyses) {
+                return `${latestYear}年の指標分析データが不足しているため、詳細な総括分析を生成できませんでした。`;
+            }
+            
             const prompt = `
 あなたは経済アナリストです。${latestYear}年の世界経済情勢を踏まえて、以下の指標分析に対する総括を提供してください。
 
 指標分析結果:
-${Object.entries(indicatorAnalysis).map(([code, analysis]) =>
-    `${analysis.indicator}: ${analysis.summary}`
-).join('\n\n')}
+${validAnalyses}
 
 ${latestYear}年の主要な世界経済動向を考慮して、以下の要素を含む総括分析を200-300文字で提供してください:
 - ${latestYear}年の主要な世界経済イベント（インフレ、金利政策、地政学的リスクなど）
