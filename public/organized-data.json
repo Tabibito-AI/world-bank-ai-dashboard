@@ -1158,6 +1158,168 @@
         {
           "country": "Japan",
           "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": 0.0633735894181335,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": 0.114908847726211,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": 0.0484253945978966,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": -0.0124946312294096,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": 0.0179605415195644,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": -0.185226486410846,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": -0.159710675844347,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": -0.144271883387076,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": -0.132694222147042,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": -0.106124993746747,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": -0.0511374152133631,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": -0.081874296046114,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": -0.126880068088791,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": -0.140464977878172,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": -0.294194617750067,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": -0.459952415807642,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": -0.443851919148528,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": -0.487370782049143,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
           "indicator": "外国直接投資（米ドル）",
           "indicatorCode": "BX.KLT.DINV.CD.WD",
           "year": 2006,
@@ -2473,6 +2635,168 @@
           "year": 2023,
           "value": 334914895,
           "unit": "人"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": 0.964253917136075,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": 0.951055242772428,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": 0.945865287282592,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": 0.876651298802912,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": 0.829616674709795,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": 0.726786704810745,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": 0.733599941250847,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": 0.692860276624581,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": 0.733361519937424,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": 0.73621730882542,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": 0.724676067451429,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": 0.63264399508256,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": 0.526435395564053,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": 0.455381285963537,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": 0.968999515833015,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": 0.157342694282194,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": 0.367472693654024,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": 0.491924871690548,
+          "unit": "%"
         },
         {
           "country": "United States",
@@ -3796,6 +4120,168 @@
         {
           "country": "China",
           "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": 0.558374367373002,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": 0.522271866392275,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": 0.51238693163744,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": 0.497381400884935,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": 0.482959688678361,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": 0.546457594880274,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": 0.678345458846803,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": 0.666072977690069,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": 0.630326389541893,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": 0.581456146657648,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": 0.573050906069647,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": 0.605245013482969,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": 0.467672053461959,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": 0.354740890170827,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": 0.238040870229883,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": 0.0892522000412526,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": -0.0130995013525784,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": -0.103794531589067,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
           "indicator": "外国直接投資（米ドル）",
           "indicatorCode": "BX.KLT.DINV.CD.WD",
           "year": 2006,
@@ -5111,6 +5597,168 @@
           "year": 2023,
           "value": 83280000,
           "unit": "人"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": -0.112797497644931,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": -0.133718572600486,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": -0.190142844695674,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": -0.253383410163402,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": -0.153198446937304,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": -1.8537146287573,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": 0.187727800567293,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": 0.272900214681538,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": 0.416877359168292,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": 0.865702643950251,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": 0.807218538573871,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": 0.373724559895838,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": 0.300526701992065,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": 0.22551987421288,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": 0.0816931586494595,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": 0.0423270572552137,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": 0.720875455989295,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": -0.620053754616789,
+          "unit": "%"
         },
         {
           "country": "Germany",
@@ -6434,6 +7082,168 @@
         {
           "country": "United Kingdom",
           "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": 0.73504867842129,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": 0.778666112441256,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": 0.787032622318939,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": 0.756390859593407,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": 0.783888646646516,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": 0.781506562236639,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": 0.695353132322269,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": 0.669740535540783,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": 0.736463978721671,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": 0.792367505802859,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": 0.757874492811929,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": 0.679374473924223,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": 0.605929132212552,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": 0.564131113399897,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": 0.365758263815142,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": -0.0819372405302065,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": 1.13444824466953,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": 0.821212039762055,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
           "indicator": "外国直接投資（米ドル）",
           "indicatorCode": "BX.KLT.DINV.CD.WD",
           "year": 2006,
@@ -7749,6 +8559,168 @@
           "year": 2023,
           "value": 68287487,
           "unit": "人"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": 0.696338574828463,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": 0.618225682593305,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": 0.558020613148126,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": 0.513351013325229,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": 0.492976371032656,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": 0.482667411007127,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": 0.483714919435185,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": 0.516915013016667,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": 0.474847846171767,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": 0.355569240058298,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": 0.263868788565368,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": 0.29020211635109,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": 0.358494581816163,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": 0.332559129027963,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": 0.324557781035362,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": 0.356902332389048,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": 0.326992498564887,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": 0.326319200823468,
+          "unit": "%"
         },
         {
           "country": "France",
@@ -9072,6 +10044,168 @@
         {
           "country": "India",
           "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": 1.56412522526913,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": 1.50599144392136,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": 1.43877181746736,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": 1.44601731955273,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": 1.45460361883041,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": 1.41682761544376,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": 1.37405616603306,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": 1.33270430507476,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": 1.26129027125347,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": 1.19285563384335,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": 1.19162966402099,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": 1.1623961434697,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": 1.09729906702925,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": 1.04001395098104,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": 0.973438646910149,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": 0.822648220128724,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": 0.790200540609834,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": 0.883289539766135,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
           "indicator": "外国直接投資（米ドル）",
           "indicatorCode": "BX.KLT.DINV.CD.WD",
           "year": 2006,
@@ -10387,6 +11521,168 @@
           "year": 2023,
           "value": 211140729,
           "unit": "人"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": 1.05833842529955,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": 1.01236820635667,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": 0.957984635895359,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": 0.895632239477021,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": 0.84088322514573,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": 0.81381388423754,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": 0.811598483382088,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": 0.810511647523289,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": 0.806314177734439,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": 0.791721773592796,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": 0.761972670496742,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": 0.72824666001736,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": 0.683439571425594,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": 0.651994346081362,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": 0.579350709708032,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": 0.425360907216456,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": 0.360180890872169,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": 0.395928695574996,
+          "unit": "%"
         },
         {
           "country": "Brazil",
@@ -11719,6 +13015,168 @@
         {
           "country": "Canada",
           "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": 1.01355939144957,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": 0.970654173316653,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": 1.083871149194,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": 1.14470768476526,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": 1.11135202971694,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": 0.97540725097113,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": 1.08374652233653,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": 1.05338098055318,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": 1.00142284689661,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": 0.760300145238936,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": 1.13153974027004,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": 1.19543575451553,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": 1.43322615679352,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": 1.46171259938134,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": 1.08436897113225,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": 0.553902422386893,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": 1.81192255344382,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": 2.93227401162387,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
           "indicator": "外国直接投資（米ドル）",
           "indicatorCode": "BX.KLT.DINV.CD.WD",
           "year": 2006,
@@ -13038,6 +14496,168 @@
         {
           "country": "Australia",
           "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": 1.34945083098893,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": 1.82499679529254,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": 2.00391140524272,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": 2.06083316277243,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": 1.55570626204128,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": 1.38952731561803,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": 1.74582000067359,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": 1.721151439989,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": 1.49156648912847,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": 1.43921665259925,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": 1.56194049810399,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": 1.64682779735017,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": 1.49599671041328,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": 1.47749071058438,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": 1.23342825131378,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": 0.14089508329287,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": 1.27269881377618,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": 2.4474661688131,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
           "indicator": "外国直接投資（米ドル）",
           "indicatorCode": "BX.KLT.DINV.CD.WD",
           "year": 2006,
@@ -14344,6 +15964,168 @@
           "year": 2023,
           "value": 281190067,
           "unit": "人"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": 1.32525502272966,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": 1.32086532413059,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": 1.29735043016571,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": 1.26698625068088,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": 1.26054140134601,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": 1.27668830646548,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": 1.28583816632167,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": 1.24038001568984,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": 1.17536091203837,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": 1.12233981761262,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": 1.0744882002252,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": 1.02232939771064,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": 0.969743409524713,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": 0.935604959235128,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": 0.849801187379341,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": 0.704601321926319,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": 0.746050469653246,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": 0.842666137328498,
+          "unit": "%"
         },
         {
           "country": "Indonesia",
@@ -15672,6 +17454,168 @@
           "year": 2023,
           "value": 33845617,
           "unit": "人"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": 0.791526842084803,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": 0.725382868960412,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": 0.657968680657885,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": 0.617089075143821,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": 0.652636898148331,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": 0.746934823460309,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": 0.83691693370644,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": 0.901339196033327,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": 0.994129278893009,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": 1.12847381931302,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": 1.33357065112944,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": 1.47336535107465,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": 1.81253577188754,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": 1.71486934751345,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": 1.19250495254373,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": 0.961612354333265,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": 0.959183909355287,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": 1.09975320783678,
+          "unit": "%"
         },
         {
           "country": "Peru",
@@ -29693,6 +31637,1955 @@
         }
       ]
     },
+    "SP.POP.GROW": {
+      "name": "人口増減率（年率%）",
+      "data": [
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": 0.0633735894181335,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": 0.114908847726211,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": 0.0484253945978966,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": -0.0124946312294096,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": 0.0179605415195644,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": -0.185226486410846,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": -0.159710675844347,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": -0.144271883387076,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": -0.132694222147042,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": -0.106124993746747,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": -0.0511374152133631,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": -0.081874296046114,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": -0.126880068088791,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": -0.140464977878172,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": -0.294194617750067,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": -0.459952415807642,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": -0.443851919148528,
+          "unit": "%"
+        },
+        {
+          "country": "Japan",
+          "countryCode": "JPN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": -0.487370782049143,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": 0.964253917136075,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": 0.951055242772428,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": 0.945865287282592,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": 0.876651298802912,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": 0.829616674709795,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": 0.726786704810745,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": 0.733599941250847,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": 0.692860276624581,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": 0.733361519937424,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": 0.73621730882542,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": 0.724676067451429,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": 0.63264399508256,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": 0.526435395564053,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": 0.455381285963537,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": 0.968999515833015,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": 0.157342694282194,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": 0.367472693654024,
+          "unit": "%"
+        },
+        {
+          "country": "United States",
+          "countryCode": "USA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": 0.491924871690548,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": 0.558374367373002,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": 0.522271866392275,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": 0.51238693163744,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": 0.497381400884935,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": 0.482959688678361,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": 0.546457594880274,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": 0.678345458846803,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": 0.666072977690069,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": 0.630326389541893,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": 0.581456146657648,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": 0.573050906069647,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": 0.605245013482969,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": 0.467672053461959,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": 0.354740890170827,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": 0.238040870229883,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": 0.0892522000412526,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": -0.0130995013525784,
+          "unit": "%"
+        },
+        {
+          "country": "China",
+          "countryCode": "CHN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": -0.103794531589067,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": -0.112797497644931,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": -0.133718572600486,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": -0.190142844695674,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": -0.253383410163402,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": -0.153198446937304,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": -1.8537146287573,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": 0.187727800567293,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": 0.272900214681538,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": 0.416877359168292,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": 0.865702643950251,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": 0.807218538573871,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": 0.373724559895838,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": 0.300526701992065,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": 0.22551987421288,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": 0.0816931586494595,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": 0.0423270572552137,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": 0.720875455989295,
+          "unit": "%"
+        },
+        {
+          "country": "Germany",
+          "countryCode": "DEU",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": -0.620053754616789,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": 0.73504867842129,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": 0.778666112441256,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": 0.787032622318939,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": 0.756390859593407,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": 0.783888646646516,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": 0.781506562236639,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": 0.695353132322269,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": 0.669740535540783,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": 0.736463978721671,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": 0.792367505802859,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": 0.757874492811929,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": 0.679374473924223,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": 0.605929132212552,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": 0.564131113399897,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": 0.365758263815142,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": -0.0819372405302065,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": 1.13444824466953,
+          "unit": "%"
+        },
+        {
+          "country": "United Kingdom",
+          "countryCode": "GBR",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": 0.821212039762055,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": 0.696338574828463,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": 0.618225682593305,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": 0.558020613148126,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": 0.513351013325229,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": 0.492976371032656,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": 0.482667411007127,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": 0.483714919435185,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": 0.516915013016667,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": 0.474847846171767,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": 0.355569240058298,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": 0.263868788565368,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": 0.29020211635109,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": 0.358494581816163,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": 0.332559129027963,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": 0.324557781035362,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": 0.356902332389048,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": 0.326992498564887,
+          "unit": "%"
+        },
+        {
+          "country": "France",
+          "countryCode": "FRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": 0.326319200823468,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": 1.56412522526913,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": 1.50599144392136,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": 1.43877181746736,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": 1.44601731955273,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": 1.45460361883041,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": 1.41682761544376,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": 1.37405616603306,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": 1.33270430507476,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": 1.26129027125347,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": 1.19285563384335,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": 1.19162966402099,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": 1.1623961434697,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": 1.09729906702925,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": 1.04001395098104,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": 0.973438646910149,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": 0.822648220128724,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": 0.790200540609834,
+          "unit": "%"
+        },
+        {
+          "country": "India",
+          "countryCode": "IND",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": 0.883289539766135,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": 1.05833842529955,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": 1.01236820635667,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": 0.957984635895359,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": 0.895632239477021,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": 0.84088322514573,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": 0.81381388423754,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": 0.811598483382088,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": 0.810511647523289,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": 0.806314177734439,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": 0.791721773592796,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": 0.761972670496742,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": 0.72824666001736,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": 0.683439571425594,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": 0.651994346081362,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": 0.579350709708032,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": 0.425360907216456,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": 0.360180890872169,
+          "unit": "%"
+        },
+        {
+          "country": "Brazil",
+          "countryCode": "BRA",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": 0.395928695574996,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": 1.01355939144957,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": 0.970654173316653,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": 1.083871149194,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": 1.14470768476526,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": 1.11135202971694,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": 0.97540725097113,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": 1.08374652233653,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": 1.05338098055318,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": 1.00142284689661,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": 0.760300145238936,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": 1.13153974027004,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": 1.19543575451553,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": 1.43322615679352,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": 1.46171259938134,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": 1.08436897113225,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": 0.553902422386893,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": 1.81192255344382,
+          "unit": "%"
+        },
+        {
+          "country": "Canada",
+          "countryCode": "CAN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": 2.93227401162387,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": 1.34945083098893,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": 1.82499679529254,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": 2.00391140524272,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": 2.06083316277243,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": 1.55570626204128,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": 1.38952731561803,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": 1.74582000067359,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": 1.721151439989,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": 1.49156648912847,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": 1.43921665259925,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": 1.56194049810399,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": 1.64682779735017,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": 1.49599671041328,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": 1.47749071058438,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": 1.23342825131378,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": 0.14089508329287,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": 1.27269881377618,
+          "unit": "%"
+        },
+        {
+          "country": "Australia",
+          "countryCode": "AUS",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": 2.4474661688131,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": 1.32525502272966,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": 1.32086532413059,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": 1.29735043016571,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": 1.26698625068088,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": 1.26054140134601,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": 1.27668830646548,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": 1.28583816632167,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": 1.24038001568984,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": 1.17536091203837,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": 1.12233981761262,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": 1.0744882002252,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": 1.02232939771064,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": 0.969743409524713,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": 0.935604959235128,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": 0.849801187379341,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": 0.704601321926319,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": 0.746050469653246,
+          "unit": "%"
+        },
+        {
+          "country": "Indonesia",
+          "countryCode": "IDN",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": 0.842666137328498,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2006,
+          "value": 0.791526842084803,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2007,
+          "value": 0.725382868960412,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2008,
+          "value": 0.657968680657885,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2009,
+          "value": 0.617089075143821,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2010,
+          "value": 0.652636898148331,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2011,
+          "value": 0.746934823460309,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2012,
+          "value": 0.83691693370644,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2013,
+          "value": 0.901339196033327,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2014,
+          "value": 0.994129278893009,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2015,
+          "value": 1.12847381931302,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2016,
+          "value": 1.33357065112944,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2017,
+          "value": 1.47336535107465,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2018,
+          "value": 1.81253577188754,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2019,
+          "value": 1.71486934751345,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2020,
+          "value": 1.19250495254373,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2021,
+          "value": 0.961612354333265,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2022,
+          "value": 0.959183909355287,
+          "unit": "%"
+        },
+        {
+          "country": "Peru",
+          "countryCode": "PER",
+          "indicator": "人口増減率（年率%）",
+          "indicatorCode": "SP.POP.GROW",
+          "year": 2023,
+          "value": 1.09975320783678,
+          "unit": "%"
+        }
+      ]
+    },
     "BX.KLT.DINV.CD.WD": {
       "name": "外国直接投資（米ドル）",
       "data": [
@@ -31662,7 +35555,7 @@
     }
   },
   "summary": {
-    "totalRecords": 1753,
+    "totalRecords": 1969,
     "countries": [
       "JPN",
       "USA",
@@ -31686,12 +35579,13 @@
       "NE.TRD.GNFS.ZS",
       "GC.DPT.TOTL.GD.ZS",
       "SP.POP.TOTL",
+      "SP.POP.GROW",
       "BX.KLT.DINV.CD.WD"
     ],
     "yearRange": {
       "min": 2006,
       "max": 2024
     },
-    "lastUpdated": "2025-06-15T02:35:06.598Z"
+    "lastUpdated": "2025-06-15T03:11:40.525Z"
   }
 }

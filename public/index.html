@@ -17,9 +17,9 @@
                     <span class="title-icon">📊</span>
                     World Bank Economic Dashboard
                 </h1>
-                <p class="subtitle">主要10カ国の経済指標分析 - AI powered by Gemini</p>
+                <p class="subtitle">主要12カ国の経済指標分析 - AI powered by Gemini</p>
                 <div class="last-updated">
-                    最終更新: <span id="lastUpdated">2025/6/15 11:36:39</span>
+                    最終更新: <span id="lastUpdated">2025/6/15 12:13:14</span>
                 </div>
             </div>
         </header>
@@ -30,12 +30,12 @@
                 <h2>📈 概要</h2>
                 <div class="overview-content">
                     <p class="overview-text" id="overviewText">
-                        2006年から2024年までの世界の主要経済国における経済指標を分析。GDP、成長率、失業率、インフレ率、貿易、人口、外国直接投資などを包括的に評価します。
+                        2006年から2024年の世界銀行データに基づき、主要国（日米中独英仏印伯加豪印尼ペルー）の経済指標を分析。GDP、成長率、失業率、インフレ率等の推移を俯瞰し、各国経済の動向を把握する。
                     </p>
                     <div class="key-findings">
                         <h3>主要な発見</h3>
                         <ul id="keyFindings">
-                            <li>GDP（現在価格、米ドル）は米国が依然として最大規模を誇る一方、中国が急速に成長し、その差を縮めている。</li><li>失業率は各国で変動が見られ、経済状況や政策の影響を受けている。特に金融危機以降、各国の対応が異なった結果が出ている可能性がある。</li><li>政府債務（GDP比%）のデータが欠落しており、分析を制約する要因となっている。政策評価において重要な指標であるため、補完が必要。</li>
+                            <li>GDP成長率は国によって大きく異なり、新興国（中国、インド、インドネシア、ブラジル、ペルー）は先進国（日米欧加豪）と比較して相対的に高い成長率を示している。</li><li>先進国では失業率が比較的安定しているものの、世界金融危機やコロナ禍などの経済ショック時には変動が見られる。特に欧州（イギリス、フランス、ドイツ）の失業率が注目される。</li><li>インフレ率は各国で変動が見られ、世界的な経済情勢やエネルギー価格の影響を受けている可能性がある。近年、特にインフレ率の上昇が顕著である。</li>
                         </ul>
                     </div>
                 </div>
@@ -112,7 +112,7 @@
                 </select>
                 <select id="indicatorSelect">
                     <option value="">指標を選択</option>
-                    <option value="NY.GDP.MKTP.CD">GDP（現在価格、米ドル）</option><option value="NY.GDP.MKTP.KD.ZG">GDP成長率（年率）</option><option value="SL.UEM.TOTL.ZS">失業率（%）</option><option value="FP.CPI.TOTL.ZG">インフレ率（%）</option><option value="NY.GDP.PCAP.CD">一人当たりGDP（米ドル）</option><option value="NE.TRD.GNFS.ZS">貿易（GDP比%）</option><option value="GC.DPT.TOTL.GD.ZS">政府債務（GDP比%）</option><option value="SP.POP.TOTL">総人口</option><option value="BX.KLT.DINV.CD.WD">外国直接投資（米ドル）</option>
+                    <option value="NY.GDP.MKTP.CD">GDP（現在価格、米ドル）</option><option value="NY.GDP.MKTP.KD.ZG">GDP成長率（年率）</option><option value="SL.UEM.TOTL.ZS">失業率（%）</option><option value="FP.CPI.TOTL.ZG">インフレ率（%）</option><option value="NY.GDP.PCAP.CD">一人当たりGDP（米ドル）</option><option value="NE.TRD.GNFS.ZS">貿易（GDP比%）</option><option value="GC.DPT.TOTL.GD.ZS">政府債務（GDP比%）</option><option value="SP.POP.TOTL">総人口</option><option value="SP.POP.GROW">人口増減率（年率%）</option><option value="BX.KLT.DINV.CD.WD">外国直接投資（米ドル）</option>
                 </select>
             </div>
             <div class="data-table-container">

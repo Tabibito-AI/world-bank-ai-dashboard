@@ -1,9 +1,9 @@
 name: Update World Bank Dashboard
 
 on:
-  # 定期実行: 毎日午前9時（JST）= 午前0時（UTC）
+  # 定期実行: 毎週月曜日午前9時（JST）= 毎週月曜日午前0時（UTC）
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * 1'
   
   # 手動実行を可能にする
   workflow_dispatch:

@@ -53,7 +53,7 @@ async function generateHTML(economicData, analysis) {
                     <span class="title-icon">📊</span>
                     World Bank Economic Dashboard
                 </h1>
-                <p class="subtitle">主要10カ国の経済指標分析 - AI powered by Gemini</p>
+                <p class="subtitle">主要12カ国の経済指標分析 - AI powered by Gemini</p>
                 <div class="last-updated">
                     最終更新: <span id="lastUpdated">${new Date().toLocaleString('ja-JP')}</span>
                 </div>
@@ -1207,10 +1207,16 @@ function initializeTradeChart() {
     });
 }
 
-// 総人口トレンドチャート
+// 人口増減率トレンドチャート
 function initializePopulationChart() {
     const ctx = document.getElementById('populationChart');
     if (!ctx || !economicData) return;
+    
+    // チャートタイトルを動的に更新
+    const titleElement = ctx.closest('.chart-card').querySelector('h3');
+    if (titleElement) {
+        titleElement.textContent = \`人口増減率トレンド\`;
+    }
     
     const countries = ['JPN', 'USA', 'CHN', 'DEU', 'GBR'];
     // 実行時から直近20年間
@@ -1223,9 +1229,9 @@ function initializePopulationChart() {
         
         const data = years.map(year => {
             const record = countryData.data.find(d =>
-                d.indicatorCode === 'SP.POP.TOTL' && d.year === year
+                d.indicatorCode === 'SP.POP.GROW' && d.year === year
             );
-            return record ? record.value / 1e6 : null; // 百万人単位
+            return record ? record.value : null; // パーセント値そのまま
         });
         
         const colors = ['#3498db', '#e74c3c', '#f39c12', '#9b59b6', '#1abc9c'];
@@ -1251,7 +1257,7 @@ function initializePopulationChart() {
             maintainAspectRatio: false,
             scales: {
                 y: {
-                    title: { display: true, text: '総人口（百万人）' }
+                    title: { display: true, text: '人口増減率（%）' }
                 }
             }
         }

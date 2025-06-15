@@ -33,6 +33,7 @@ const INDICATORS = {
     'NE.TRD.GNFS.ZS': '貿易（GDP比%）',
     'GC.DPT.TOTL.GD.ZS': '政府債務（GDP比%）',
     'SP.POP.TOTL': '総人口',
+    'SP.POP.GROW': '人口増減率（年率%）',
     'BX.KLT.DINV.CD.WD': '外国直接投資（米ドル）' // 単位を米ドルに変更
 };
 
@@ -92,6 +93,7 @@ function getUnit(indicatorCode) {
         'NE.TRD.GNFS.ZS': '%',
         'GC.DPT.TOTL.GD.ZS': '%',
         'SP.POP.TOTL': '人',
+        'SP.POP.GROW': '%',
         'BX.KLT.DINV.CD.WD': '米ドル' // 単位を米ドルに変更
     };
     return units[indicatorCode] || '';
