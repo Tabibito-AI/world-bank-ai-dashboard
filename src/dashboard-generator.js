@@ -782,6 +782,16 @@ function renderCountries() {
     const countriesGrid = document.getElementById('countriesGrid');
     if (!countriesGrid) return;
     
+    // 国別分析セクションのタイトルを動的に更新
+    const countriesSection = document.querySelector('.countries-section h2');
+    if (countriesSection) {
+        // 最新年を取得
+        const allData = Object.values(economicData.byCountry)
+            .flatMap(country => country.data);
+        const latestYear = Math.max(...allData.map(d => d.year));
+        countriesSection.textContent = \`🌍 国別分析（\${latestYear}年）\`;
+    }
+    
     const countries = Object.entries(economicData.byCountry);
     
     countriesGrid.innerHTML = countries.map(([code, countryData]) => {
@@ -834,14 +844,20 @@ function renderIndicatorTabs() {
     
     const indicators = Object.entries(economicData.byIndicator);
     
-    // タブボタンを生成
+    // タブボタンを生成（世界経済総括タブを追加）
     tabButtons.innerHTML = indicators.map(([code, indicatorData], index) => \`
-        <button class="tab-button \${index === 0 ? 'active' : ''}" 
-                onclick="switchTab('\${code}')" 
+        <button class="tab-button \${index === 0 ? 'active' : ''}"
+                onclick="switchTab('\${code}')"
                 data-indicator="\${code}">
             \${indicatorData.name}
         </button>
-    \`).join('');
+    \`).join('') + \`
+        <button class="tab-button"
+                onclick="switchTab('global-summary')"
+                data-indicator="global-summary">
+            🌍 世界経済総括
+        </button>
+    \`;
     
     // タブコンテンツを生成
     tabContent.innerHTML = indicators.map(([code, indicatorData], index) => \`
@@ -863,7 +879,16 @@ function renderIndicatorTabs() {
                 <canvas id="chart-\${code}" width="400" height="200"></canvas>
             </div>
         </div>
-    \`).join('');
+    \`).join('') + \`
+        <div class="tab-panel" id="tab-global-summary">
+            <h3>🌍 世界経済総括分析</h3>
+            <div class="global-economic-summary">
+                <div class="summary-content">
+                    \${analysis?.globalEconomicSummary || '世界経済総括分析を読み込み中...'}
+                </div>
+            </div>
+        </div>
+    \`;
 }
 
 // チャートをレンダリング

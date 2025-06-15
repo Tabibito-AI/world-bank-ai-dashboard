@@ -20,7 +20,14 @@ async function main() {
         console.log('🤖 Gemini AIでデータを分析中...');
         const analysis = await geminiAnalyzer.analyzeData(economicData);
         
-        // 3. ダッシュボード生成
+        // 3. 世界経済総括分析
+        console.log('🌍 世界経済総括分析を生成中...');
+        const latestYear = Math.max(...Object.values(economicData.byCountry)
+            .flatMap(country => country.data)
+            .map(d => d.year));
+        analysis.globalEconomicSummary = await geminiAnalyzer.generateGlobalEconomicSummary(analysis.indicators, latestYear);
+        
+        // 4. ダッシュボード生成
         console.log('🎨 ダッシュボードを生成中...');
         await dashboardGenerator.generateDashboard(economicData, analysis);
         

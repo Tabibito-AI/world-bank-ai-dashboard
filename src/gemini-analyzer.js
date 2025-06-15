@@ -459,8 +459,48 @@ if (require.main === module) {
     main();
 }
 
+/**
+ * 世界経済情勢を含む指標別総括分析を生成
+ */
+async function generateGlobalEconomicSummary(indicatorAnalysis, latestYear) {
+    for (let i = 0; i < MAX_RETRIES; i++) {
+        try {
+            const model = genAI.getGenerativeModel({ model: 'gemini-2.0-flash' });
+            
+            const prompt = `
+あなたは経済アナリストです。${latestYear}年の世界経済情勢を踏まえて、以下の指標分析に対する総括を提供してください。
+
+指標分析結果:
+${Object.entries(indicatorAnalysis).map(([code, analysis]) =>
+    `${analysis.indicator}: ${analysis.summary}`
+).join('\n\n')}
+
+${latestYear}年の主要な世界経済動向を考慮して、以下の要素を含む総括分析を200-300文字で提供してください:
+- ${latestYear}年の主要な世界経済イベント（インフレ、金利政策、地政学的リスクなど）
+- 上記指標分析結果と世界経済情勢の関連性
+- 今後の展望
+
+簡潔で分かりやすい日本語で回答してください。
+`;
+
+            const result = await model.generateContent(prompt);
+            const response = await result.response;
+            return response.text().trim();
+            
+        } catch (error) {
+            console.error(`世界経済総括分析に失敗 (リトライ ${i + 1}/${MAX_RETRIES}):`, error.message);
+            if (i === MAX_RETRIES - 1) {
+                return `${latestYear}年の世界経済動向を踏まえた総括分析の生成に失敗しました。`;
+            }
+            // 指数バックオフで待機
+            await new Promise(resolve => setTimeout(resolve, Math.pow(2, i) * 1000));
+        }
+    }
+}
+
 module.exports = {
-    analyzeData
+    analyzeData,
+    generateGlobalEconomicSummary
 };
 
 
