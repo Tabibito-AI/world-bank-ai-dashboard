@@ -119,7 +119,7 @@ ${Object.entries(data.byIndicator).map(([code, info]) =>
 async function generateCountryAnalysis(countryData, countryCode) {
     for (let i = 0; i < MAX_RETRIES; i++) {
         try {
-            const model = genAI.getGenerativeModel({ model: 'gemini-2.0-flash' });
+            const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash' });
             
             // 最新年のデータを抽出
             const latestData = {};
