@@ -219,7 +219,7 @@ ${Object.values(latestData).map(item =>
 async function generateIndicatorComparison(indicatorData, indicatorCode) {
     for (let i = 0; i < MAX_RETRIES; i++) {
         try {
-            const model = genAI.getGenerativeModel({ model: 'gemini-2.0-flash' });
+            const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash' });
             
             // 最新年のデータを国別に整理
             const latestByCountry = {};
