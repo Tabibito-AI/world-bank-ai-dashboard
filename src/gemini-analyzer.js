@@ -27,7 +27,7 @@ const RETRY_DELAY_MS = 2000; // 2秒
 async function generateOverviewAnalysis(data) {
     for (let i = 0; i < MAX_RETRIES; i++) {
         try {
-            const model = genAI.getGenerativeModel({ model: 'gemini-2.0-flash' });
+            const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash' });
             
             const prompt = `
 以下のWorld Bank経済データを分析して、日本語で概要レポートを作成してください。
