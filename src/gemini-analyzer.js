@@ -470,7 +470,7 @@ if (require.main === module) {
 async function generateGlobalEconomicSummary(indicatorAnalysis, latestYear) {
     for (let i = 0; i < MAX_RETRIES; i++) {
         try {
-            const model = genAI.getGenerativeModel({ model: 'gemini-2.0-flash' });
+            const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash' });
             
             // 指標分析結果から有効なデータを抽出
             const validAnalyses = Object.entries(indicatorAnalysis)
